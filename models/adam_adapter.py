@@ -42,8 +42,6 @@ class Learner(BaseLearner):
         self.weight_decay=args["weight_decay"] if args["weight_decay"] is not None else 0.0005
         self.min_lr=args['min_lr'] if args['min_lr'] is not None else 1e-8
         self.args=args
-        self.Q = torch.zeros(768, self.args["nb_classes"])
-        self.G = torch.zeros(768, 768)
         self.cov_mats, self.base_cov_mats = [], []
         self.ridge = 1
         self.beta = 0.5
