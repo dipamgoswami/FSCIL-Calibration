@@ -8,7 +8,7 @@ Few-shot class-incremental learning (FSCIL) aims to adapt the model to new class
 @article{goswami2024calibrating,
   title={Calibrating Higher-Order Statistics for Few-Shot Class-Incremental Learning with Pre-trained Vision Transformers},
   author={Goswami, Dipam and Twardowski, Bartłomiej and van de Weijer, Joost},
-  journal={arXiv preprint arXiv:2404.06622},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
   year={2024}
 }
 ```
