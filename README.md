@@ -14,6 +14,14 @@ Few-shot class-incremental learning (FSCIL) aims to adapt the model to new class
   year={2024}
 }
 ```
+## Dependencies
+
+1. torch 2.0.1
+2. torchvision 0.15.2
+3. timm 0.6.12
+4. tqdm
+5. numpy
+6. scipy
 
 ## Run experiments
 
