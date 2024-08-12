@@ -14,6 +14,13 @@ Few-shot class-incremental learning (FSCIL) aims to adapt the model to new class
   year={2024}
 }
 ```
+
+## Results
+
+<img src="https://github.com/dipamgoswami/FSCIL-Calibration/blob/main/figs/table1.png" width="100%" height="100%">
+
+<img src="https://github.com/dipamgoswami/FSCIL-Calibration/blob/main/figs/table2.png" width="100%" height="100%">
+
 ## Dependencies
 
 1. torch 2.0.1
