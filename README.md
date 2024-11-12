@@ -1,4 +1,4 @@
-# FSCIL-Calibration [![Paper](https://img.shields.io/badge/arXiv-2210.07207-brightgreen)](https://arxiv.org/pdf/2404.06622.pdf)
+# FSCIL-Calibration [![Paper](https://img.shields.io/badge/arXiv-2404.06622-brightgreen)](https://arxiv.org/pdf/2404.06622.pdf)
 ## Code for CLVision workshop (CVPR 2024) paper - Calibrating Higher-Order Statistics for Few-Shot Class-Incremental Learning with Pre-trained Vision Transformers
 
 ## Abstract
